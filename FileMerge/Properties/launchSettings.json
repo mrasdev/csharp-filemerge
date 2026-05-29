@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileMerge": {
+      "commandName": "Project",
+      "commandLineArgs": "\"../../../\""
+    }
+  }
+}
